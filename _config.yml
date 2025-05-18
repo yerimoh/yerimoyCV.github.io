@@ -6,21 +6,21 @@ baseurl: "/yerimoyCV.github.io"
 theme: minima  # 또는 사용한 테마에 따라 다르게 설정
 # Owner/author information
 owner:
-  name: Hanlin Cai
+  name: Yerim OH
   avatar: /images/yerim.png
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: yeirm0210@korea.ac.kr
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: #https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+  #twitter: lancecai2002
+  github: yerimOh
+  linkedin: yerim-oh
+  scholar: https://scholar.google.co.kr/citations?user=f33JqCoAAAAJ&hl=ko 
+  #researchgate: https://www.researchgate.net/profile/Hanlin-Cai
+  #zhihu: https://www.zhihu.com/people/chlire
   # facebook: caihanlin2002
-  # instagram: lancecai2002
+  instagram: _oyerim_
+  blog: https://yerimoh.github.io/
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -28,7 +28,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+google_verify: "fJDc0hxQJHW8eqANSnMSnd8w8UhevWGgD_Gl-_GA7NQ"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""
@@ -42,12 +42,12 @@ links:
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+  #- title: Hobbies
+  #  url: /hobbies/
   # - title: Startups
     # url: /startups/
-  - title: Blogs
-    url: /blogs/
+  #- title: Blogs
+  #  url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
