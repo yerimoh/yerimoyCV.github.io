@@ -1,9 +1,8 @@
-title: Hanlin Cai
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
-# description: Two roads diverged in woods, I took the one less traveled by.
-#Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
-
+title: Yerim's CV
+description: Yerim's academic and career profile
+baseurl: "/yerimoyCV.github.io"  # 꼭 이렇게 써야 합니다
+url: "https://yerimoh.github.io"
+theme: minima  # 또는 사용한 테마에 따라 다르게 설정
 # Owner/author information
 owner:
   name: Hanlin Cai
