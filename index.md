@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/yerimoh/yerimoyCV.github.io/blob/main/full_yerim.jpg" class="floatpic">
+<img src="https://raw.githubusercontent.com/yerimoh/yerimoyCV.github.io/main/full_yerim.jpg" class="floatpic">
 
 Here is **Yerim OH**.<br>
 
