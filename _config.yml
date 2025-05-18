@@ -1,7 +1,8 @@
 title: Yerim's CV
 description: Yerim's academic and career profile
-baseurl: "/yerimoyCV.github.io"  # 꼭 이렇게 써야 합니다
 url: "https://yerimoh.github.io"
+baseurl: "/yerimoyCV.github.io"  # ✅ 반드시 리포 이름과 동일하게
+
 theme: minima  # 또는 사용한 테마에 따라 다르게 설정
 # Owner/author information
 owner:
