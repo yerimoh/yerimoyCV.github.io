@@ -21,10 +21,7 @@ title: Publications
   Miami, Florida. November, 2024.
 
 
-- [An empirical study of topic classification for Korean newspaper headlines](https://koreascience.kr/article/CFKO202130060688828.page)<br>
-  Jeiyoon Park, Mingyu Kim, **Yerim Oh**, Sangwon Lee, Jiung Min, Youngdae Oh<br>
-  Annual Conference on Human and Language Technology<br>
-  Korea. 2021
+
 
 
 <br>
