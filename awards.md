@@ -13,7 +13,7 @@ title: Awards
 ## Competitions   
 - **Dec 2022:** 🥇 First Prize at the GBT Capstone Project for developing “EASY:VIEW,” a mobile application that recognizes braille and assists visually impaired users by converting it into readable text and voice output.   
 - **Nov 2022:** 🥈 Excellence Award at the 2022 Artificial Intelligence Idea Festival for creating an AI-powered app recommendation system for digitally marginalized users.   
-- **May 2022:** 🥉 Third Place at the AI PARK Challenge; advanced to the final round.   
+- **May 2022:** 🥉 Third Prize at the AI PARK Challenge; advanced to the final round.   
 - **Nov 2021:** 🏅 President’s Award, Korea Embedded Software and Systems Industry Association, at the 19th Embedded Software Competition.
 
   <br>   
