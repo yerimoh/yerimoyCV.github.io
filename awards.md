@@ -8,22 +8,55 @@ title: Awards
 
 ## Scholarships
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- **Sep 2022:** [FThe 13th Staff Scholarship Program (Seed) of Hankuk University of Foreign Studies](https://www.hufs.ac.kr/hufs/11403/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaHVmcyUyRjIxODclMkY5NDQxMiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2c3JjaENvbHVtbiUzRHNqJTI2c3JjaFdyZCUzRCVFQyU5NCVBOCVFQyU5NSU5NyUyNmJic0NsU2VxJTNEJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2cmdzRW5kZGVTdHIlM0QlMjZpc1ZpZXdNaW5lJTNEZmFsc2UlMjZwYXNzd29yZCUzRCUyNg%3D%3D) <br>
 
-## Competitions
+## Competitions   
+- **Dec 2022:** 🥇 First Prize at the GBT Capstone Project for developing “EASY:VIEW,” a mobile application that recognizes braille and assists visually impaired users by converting it into readable text and voice output.   
+- **Nov 2022:** 🥈 Excellence Award at the 2022 Artificial Intelligence Idea Festival for creating an AI-powered app recommendation system for digitally marginalized users.   
+- **May 2022:** 🥉 Third Place at the AI PARK Challenge; advanced to the final round.   
+- **Nov 2021:** 🏅 President’s Award, Korea Embedded Software and Systems Industry Association, at the 19th Embedded Software Competition.
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+  <br>   
+
+
+## Teaching Experience    
+
+- **Dec 2022**: TA – HLG CNS FDL/NLP/CONAI Program  
+  Teaching assistant for advanced deep learning and NLP courses, supporting model implementation and concept clarification.
+
+- **Aug 2022**: TA – Deep Learning & NLP Fundamentals – Inha University  
+  Assisted in labs and tutorials focused on deep learning and foundational NLP techniques.
+
+- **Jun 2022**: TA – Fundamentals of Deep Learning – Global Startup Campus  
+  Supported GPU-accelerated deep learning education for early-stage AI developers.
+
+- **2022**: TA – Hankuk University of Foreign Studies  
+  Provided hands-on guidance in Python and algorithm classes for undergraduates.  
+
+- **Jul – Sep 2022**: Lead Instructor – Seodaemun-gu AI Innovation Center  
+  Delivered a practical course titled [“Real-world Data Analysis with Python from Basics.”](https://www.sdm.go.kr/lll/user/lectureinfo/lectureInfoView.do?idx=1597)
+
+- **Dec 2022**: Instructor – NVIDIA DLI, Dongguk University  
+  Conducted a beginner-level deep learning course with hands-on lab sessions using NVIDIA tools.
+
+- **Mar 2023**: Participant – NVIDIA DLI Workshop on Multi-GPU Deep Learning Training  
+  Participated in and reviewed a bilingual course on data parallelism and multi-GPU training.
+
+- **Dec 2022**: Translator & Reviewer – NVIDIA Korea DLI Ambassador Networking Session  
+  Attended NVIDIA Korea’s educator event to share AI teaching strategies.
+
+- **Mar 2022**: TA – NVIDIA GTC 2022  
+  Supported participants during NVIDIA’s global conference on AI and computing technologies.
+
+- **Jan 2022**: TA – UST-KISTI Deep Learning Workshop  
+  Facilitated AI education sessions for university faculty and students.
+
+- **Sep 2021**: TA – NVIDIA Global Startup Academy  
+  Supported NLP education using Transformer-based models for startup teams.
+
+- **2021**:  TA – Hankuk University of Foreign Studies   
+  Provided hands-on guidance in Python and algorithm classes for undergraduates.  
+
+
 
 <br>
