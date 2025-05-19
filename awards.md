@@ -8,7 +8,7 @@ title: Awards
 
 ## Scholarships
 
-- **Sep 2022:** [FThe 13th Staff Scholarship Program (Seed) of Hankuk University of Foreign Studies](https://www.hufs.ac.kr/hufs/11403/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaHVmcyUyRjIxODclMkY5NDQxMiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2c3JjaENvbHVtbiUzRHNqJTI2c3JjaFdyZCUzRCVFQyU5NCVBOCVFQyU5NSU5NyUyNmJic0NsU2VxJTNEJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2cmdzRW5kZGVTdHIlM0QlMjZpc1ZpZXdNaW5lJTNEZmFsc2UlMjZwYXNzd29yZCUzRCUyNg%3D%3D) <br>
+- **Sep 2022:** [The 13th Staff Scholarship Program (Seed) of Hankuk University of Foreign Studies](https://www.hufs.ac.kr/hufs/11403/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaHVmcyUyRjIxODclMkY5NDQxMiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2c3JjaENvbHVtbiUzRHNqJTI2c3JjaFdyZCUzRCVFQyU5NCVBOCVFQyU5NSU5NyUyNmJic0NsU2VxJTNEJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2cmdzRW5kZGVTdHIlM0QlMjZpc1ZpZXdNaW5lJTNEZmFsc2UlMjZwYXNzd29yZCUzRCUyNg%3D%3D) <br>
 
 ## Competitions   
 - **Dec 2022:** 🥇 First Prize at the GBT Capstone Project for developing “EASY:VIEW,” a mobile application that recognizes braille and assists visually impaired users by converting it into readable text and voice output.   
@@ -21,7 +21,7 @@ title: Awards
 
 ## Teaching Experience    
 
-- **Dec 2022**: TA – HLG CNS FDL/NLP/CONAI Program  
+- **Dec 2022**: TA – LG CNS FDL/NLP/CONAI Program  
   Teaching assistant for advanced deep learning and NLP courses, supporting model implementation and concept clarification.
 
 - **Aug 2022**: TA – Deep Learning & NLP Fundamentals – Inha University  
