@@ -34,9 +34,9 @@ My current research focuses on solving real-world scientific problems using arti
 
 ## Education
 
-- **2024.03-ing :** Korea Univeristy [DILab](http://dilab.korea.ac.kr/) M.S. course student   
-- **2022.04-2024.03:** Korea Univeristy [DILab](http://dilab.korea.ac.kr/) Undergraduate Researcher   
-- **2020.03-2024.03:** Hankuk University of Foreign Studies     
+- **2024-ing :** Korea Univeristy [DILab](http://dilab.korea.ac.kr/) M.S. course student   
+- **2022-2024:** Korea Univeristy [DILab](http://dilab.korea.ac.kr/) Undergraduate Researcher   
+- **2020-2024:** Hankuk University of Foreign Studies     
 
 
 
