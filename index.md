@@ -25,7 +25,7 @@ My current research focuses on solving real-world scientific problems using arti
 
 ## News and Updates
 
-- **May 2025**: A paper (MATTER) got accepted to ACL 2025.   
+- **May 2025**: A paper ([MATTER](https://arxiv.org/abs/2506.11115)) got accepted to ACL 2025.   
 - **Sep 2024**: A paper ([MELT](https://arxiv.org/abs/2410.15126)) got accepted to EMNLP 2024 Findings.
 - **Aug 2021**: NVIDIA DLI Ambassador  
 
@@ -34,9 +34,9 @@ My current research focuses on solving real-world scientific problems using arti
 
 ## Education
 
-- **2024-ing :** Korea Univeristy [DILab](http://dilab.korea.ac.kr/) M.S.-Ph.D. integrated course student   
-- **2022-2024:** Korea Univeristy [DILab](http://dilab.korea.ac.kr/) Undergraduate Researcher   
-- **2020-2024:** Hankuk University of Foreign Studies     
+- **2024.03-ing :** Korea Univeristy [DILab](http://dilab.korea.ac.kr/) M.S. course student   
+- **2022.04-2024.03:** Korea Univeristy [DILab](http://dilab.korea.ac.kr/) Undergraduate Researcher   
+- **2020.03-2024.03:** Hankuk University of Foreign Studies     
 
 
 
