@@ -28,7 +28,7 @@ title: Awards
 - **Jul – Sep 2022** — **Seodaemun-gu AI Innovation Center**  
   Delivered a practical course titled [_Real-world Data Analysis with Python from Basics_](https://www.sdm.go.kr/lll/user/lectureinfo/lectureInfoView.do?idx=1597).
 
-### Assistact
+### Assistant
 - **Mar 2023** — **NVIDIA DLI Workshop on Multi-GPU Deep Learning Training**  
   Participated in and reviewed a bilingual course on data parallelism and multi-GPU training.
 - **Dec 2022** — **LG CNS FDL/NLP/CONAI Program**  
