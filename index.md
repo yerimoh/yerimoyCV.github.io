@@ -25,7 +25,7 @@ My current research focuses on solving real-world scientific problems using arti
 
 ## News and Updates
 
-- **May 2025**: A paper ([MATTER](https://arxiv.org/abs/2506.11115)) got accepted to ACL 2025. <span style="color:red">SAC Highlights</span>       
+- **May 2025**: A paper ([MATTER](https://aclanthology.org/2025.acl-long.474/) got accepted to ACL 2025. <span style="color:red">SAC Highlights</span>       
 - **Sep 2024**: A paper ([MELT](https://arxiv.org/abs/2410.15126)) got accepted to EMNLP 2024 Findings.
 - **Aug 2021**: NVIDIA DLI Ambassador  
 
