@@ -9,7 +9,7 @@ title: Publications
 
 ## Conference Paper
 
-- [Incorporating Domain Knowledge into Materials Tokenization](https://arxiv.org/abs/2506.11115)  <br>
+- [Incorporating Domain Knowledge into Materials Tokenization](https://aclanthology.org/2025.acl-long.474/)  <br>
   **Yerim Oh**, Jun-Hyung Park, Junho Kim, SungHo Kim, SangKeun Lee<br>
   The 63rd Annual Meeting of the Association for Computational Linguistics<br>
   Vienna, Austria. July, 2025. <span style="color:red">SAC Highlights (1.5%) </span>
