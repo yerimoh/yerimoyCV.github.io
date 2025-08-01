@@ -12,7 +12,7 @@ title: Publications
 - [Incorporating Domain Knowledge into Materials Tokenization](https://arxiv.org/abs/2506.11115)  <br>
   **Yerim Oh**, Jun-Hyung Park, Junho Kim, SungHo Kim, SangKeun Lee<br>
   The 63rd Annual Meeting of the Association for Computational Linguistics<br>
-  Vienna, Austria. July, 2025. <span style="color:red">SAC Highlights</span>
+  Vienna, Austria. July, 2025. <span style="color:red">SAC Highlights (1.5%) </span>
 
 
 - [MELT: Materials-aware Continued Pre-training for Language Model Adaptation to Materials Science](https://arxiv.org/abs/2410.15126)<br>
