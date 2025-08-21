@@ -16,7 +16,11 @@ title: Awards
 - **May 2022:** 🥉 Third Prize at the AI PARK Challenge; advanced to the final round.   
 - **Nov 2021:** 🏅 President’s Award, Korea Embedded Software and Systems Industry Association, at the 19th Embedded Software Competition.
 
-  <br>   
+  <br>  
+  
+## Professional Activities
+- **Reviewer**: EMNLP 2025 
+
 
 
 ## Teaching Experience    
