@@ -19,7 +19,7 @@ title: Awards
   <br>  
   
 ## Professional Activities
-- **Reviewer**: EMNLP 2025 
+- **Reviewer**: EMNLP 2025, AACL 2025
 
 
 
