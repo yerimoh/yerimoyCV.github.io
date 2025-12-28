@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Awards
+title: Professional Activities
 ---
 
 > Update: 19th May 2025
