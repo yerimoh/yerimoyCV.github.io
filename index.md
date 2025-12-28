@@ -35,7 +35,7 @@ My current research focuses on solving real-world scientific problems using arti
 ## Education
 - **2026-ing:** Ph.D. candidate in IPAI, Seoul National University, [SNUVL](https://vision.snu.ac.kr/)      
 - **2024-2026:** M.S. in Artificial Intelligence, Korea Univeristy, [DILab](http://dilab.korea.ac.kr/)    
-- **2022-2024:** Undergraduate Researcher in Artificial Intelligence, Korea Univeristy, [DILab](http://dilab.korea.ac.kr/)    
+- **2022-2024:** Undergraduate Researcher in Korea Univeristy, [DILab](http://dilab.korea.ac.kr/)    
 - **2020-2024:** B.S. in Hankuk University of Foreign Studies     
 
 
