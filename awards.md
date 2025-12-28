@@ -6,6 +6,11 @@ title: Professional Activities
 
 > Update: 19th May 2025
 
+  
+## Professional Activities
+- **Reviewer**: EMNLP 2025, AACL 2025
+
+
 ## Scholarships
 
 - **Sep 2022:** [The 13th Staff Scholarship Program (Seed) of Hankuk University of Foreign Studies](https://www.hufs.ac.kr/hufs/11403/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaHVmcyUyRjIxODclMkY5NDQxMiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2c3JjaENvbHVtbiUzRHNqJTI2c3JjaFdyZCUzRCVFQyU5NCVBOCVFQyU5NSU5NyUyNmJic0NsU2VxJTNEJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2cmdzRW5kZGVTdHIlM0QlMjZpc1ZpZXdNaW5lJTNEZmFsc2UlMjZwYXNzd29yZCUzRCUyNg%3D%3D) <br>
@@ -17,9 +22,7 @@ title: Professional Activities
 - **Nov 2021:** 🏅 President’s Award, Korea Embedded Software and Systems Industry Association, at the 19th Embedded Software Competition.
 
   <br>  
-  
-## Professional Activities
-- **Reviewer**: EMNLP 2025, AACL 2025
+
 
 
 
