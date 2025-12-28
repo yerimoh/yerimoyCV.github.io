@@ -17,7 +17,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ## Research Interests
 
 - AI4Science   
-- multimodal learning
+- Multimodal learning
 
 My current research focuses on solving real-world scientific problems using artificial intelligence. Specifically, I’m interested in AI4Science, particularly in applying deep learning techniques to inorganic materials modeling. I also explore multimodal learning, with an emphasis on understanding and reasoning over video data through large language models. I aim to contribute to the advancement of AI technologies that bridge the gap between complex scientific data and human-level understanding, ultimately fostering progress in both science and society.
 
@@ -33,10 +33,9 @@ My current research focuses on solving real-world scientific problems using arti
 ----
 
 ## Education
-
-- **2024-ing :** Korea Univeristy [DILab](http://dilab.korea.ac.kr/) M.S. course student   
-- **2022-2024:** Korea Univeristy [DILab](http://dilab.korea.ac.kr/) Undergraduate Researcher   
-- **2020-2024:** Hankuk University of Foreign Studies     
+- **2024-2025:** M.S. in Artificial Intelligence, Korea Univeristy, [DILab](http://dilab.korea.ac.kr/) 
+- **2022-2024:** Undergraduate Researcher in Artificial Intelligence, Korea Univeristy, [DILab](http://dilab.korea.ac.kr/)    
+- **2020-2024:** B.S. in Hankuk University of Foreign Studies     
 
 
 
