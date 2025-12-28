@@ -7,7 +7,7 @@ layout: page
 
 Here is **Yerim OH**.<br>
 
-I’m a M.S course student in the Department of Artifical Intelligence at the Korea University, advised by [Prof. SangKeun Lee](http://dilab.korea.ac.kr/). My main research areas include **AI4Science** and **multimodal learning**. <br>
+I’m a M.S. student in the Department of Artifical Intelligence at the Korea University, advised by [Prof. SangKeun Lee](http://dilab.korea.ac.kr/). My main research areas include **AI4Science** and **Multimodal learning**. <br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - yerim0210 [at] korea.ac.kr
 
@@ -33,7 +33,8 @@ My current research focuses on solving real-world scientific problems using arti
 ----
 
 ## Education
-- **2024-2025:** M.S. in Artificial Intelligence, Korea Univeristy, [DILab](http://dilab.korea.ac.kr/) 
+- **2026-ing:** Ph.D. candidate in IPAI, Seoul National University, [SNUVL](https://vision.snu.ac.kr/)      
+- **2024-2026:** M.S. in Artificial Intelligence, Korea Univeristy, [DILab](http://dilab.korea.ac.kr/)    
 - **2022-2024:** Undergraduate Researcher in Artificial Intelligence, Korea Univeristy, [DILab](http://dilab.korea.ac.kr/)    
 - **2020-2024:** B.S. in Hankuk University of Foreign Studies     
 
