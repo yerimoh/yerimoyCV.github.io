@@ -6,7 +6,7 @@ baseurl: "/yerimoyCV.github.io"
 theme: minima  # 또는 사용한 테마에 따라 다르게 설정
 # Owner/author information
 owner:
-  name: Yerim OH
+  name: Yerim Oh
   avatar: /images/yerim.png
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: yeirm0210@korea.ac.kr
