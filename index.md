@@ -9,7 +9,7 @@ Here is **Yerim OH**.<br>
 
 I’m a M.S. student in the Department of Artifical Intelligence at the Korea University, advised by [Prof. SangKeun Lee](http://dilab.korea.ac.kr/). My main research areas include **AI4Science** and **Multimodal learning**. <br>
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - yerim0210 [at] korea.ac.kr
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - yerim.oh [at] vision.snu.ac.kr  
 
 
 ---
