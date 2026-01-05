@@ -5,9 +5,9 @@ layout: page
 # About Me
 
 
-Here is **Yerim OH**.<br>
+Here is **Yerim Oh**.<br>
 
-I’m a M.S. student in the Department of Artifical Intelligence at the Korea University, advised by [Prof. SangKeun Lee](http://dilab.korea.ac.kr/). My main research areas include **AI4Science** and **Multimodal learning**. <br>
+I’m a Ph.D. student in Interdisciplinary Program in AI (IPAI) at Seoul National University, advised by [Prof. Gunhee Kim](https://vision.snu.ac.kr/). My main research areas include **AI4Science** and **Multimodal learning**. <br>
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - yerim.oh [at] vision.snu.ac.kr  
 
