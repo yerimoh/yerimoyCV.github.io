@@ -9,7 +9,7 @@ title: Professional Activities
   
 ## Professional Activities
 - **Reviewer**: EMNLP 2025, AACL 2025, ACL 2026          
-- **Invitation**: LG Tech Conference 2026
+- **Invitation**: [LG Tech Conference 2026](https://biz.chosun.com/industry/company/2026/05/14/QTVDQFZE25CMZLRDJU7ARD5OCM/)
 
 
 ## Scholarships
