@@ -8,7 +8,8 @@ title: Professional Activities
 
   
 ## Professional Activities
-- **Reviewer**: EMNLP 2025, AACL 2025, ACL 2026
+- **Reviewer**: EMNLP 2025, AACL 2025, ACL 2026          
+- **Invitation**: LG Tech Conference 2026
 
 
 ## Scholarships
