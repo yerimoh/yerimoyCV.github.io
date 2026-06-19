@@ -10,7 +10,7 @@ title: Professional Activities
 ## Professional Activities
 - **Reviewer**: EMNLP 2025, AACL 2025, ACL 2026          
 - **Invitation**: [LG Tech Conference 2026](https://biz.chosun.com/industry/company/2026/05/14/QTVDQFZE25CMZLRDJU7ARD5OCM/)
-- **Talk**: [SNU × NVIDIA with Jensen Huang 💚](https://www.linkedin.com/posts/yerim-oh_nvidia-snu-dliambassador-ugcPost-7469912747783340032-_F-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADUu3ksBPXi4H9FfA-vGiQp-fEOSfVv_Dak) 🎤 I was thrilled to be part of the official program, representing the NVIDIA ecosystem on my own campus. 🎤 
+- **Talk**: [SNU × NVIDIA with Jensen Huang 💚](https://www.linkedin.com/posts/yerim-oh_nvidia-snu-dliambassador-ugcPost-7469912747783340032-_F-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADUu3ksBPXi4H9FfA-vGiQp-fEOSfVv_Dak) I was thrilled to be part of the official program, representing the NVIDIA ecosystem on my own campus. 🎤 
 
 
 ## Scholarships
