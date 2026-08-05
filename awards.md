@@ -15,7 +15,8 @@ title: Professional Activities
 
 ## Scholarships
 
-- **Sep 2022:** [The 13th Staff Scholarship Program (Seed) of Hankuk University of Foreign Studies](https://www.hufs.ac.kr/hufs/11403/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaHVmcyUyRjIxODclMkY5NDQxMiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2c3JjaENvbHVtbiUzRHNqJTI2c3JjaFdyZCUzRCVFQyU5NCVBOCVFQyU5NSU5NyUyNmJic0NsU2VxJTNEJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2cmdzRW5kZGVTdHIlM0QlMjZpc1ZpZXdNaW5lJTNEZmFsc2UlMjZwYXNzd29yZCUzRCUyNg%3D%3D) <br>
+- **2026:** [AI Seoul Tech Research Support Program (Ph.D.)](https://www.seoulfuture.or.kr/home/kor/M075356964/scholarship/info/view.do?idx=cb00d1a0008a85e71a41b8741facbffe0da50bb4e2a1672fcc14ff2318200bfa&idx3=cb00d1a0008a85e71a41b8741facbffe0da50bb4e2a1672fcc14ff2318200bfa&act=&tabPos3=C)      
+- **2022:** [The 13th Staff Scholarship Program (Seed) of Hankuk University of Foreign Studies](https://www.hufs.ac.kr/hufs/11403/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaHVmcyUyRjIxODclMkY5NDQxMiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2c3JjaENvbHVtbiUzRHNqJTI2c3JjaFdyZCUzRCVFQyU5NCVBOCVFQyU5NSU5NyUyNmJic0NsU2VxJTNEJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2cmdzRW5kZGVTdHIlM0QlMjZpc1ZpZXdNaW5lJTNEZmFsc2UlMjZwYXNzd29yZCUzRCUyNg%3D%3D) <br>
 
 ## Competitions   
 - **Dec 2022:** 🥇 First Prize at the GBT Capstone Project for developing “EASY:VIEW,” a mobile application that recognizes braille and assists visually impaired users by converting it into readable text and voice output.   
