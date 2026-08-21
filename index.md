@@ -24,9 +24,9 @@ My current research focuses on solving real-world scientific problems using arti
 ---
 
 ## News and Updates
+- **Oct 2026**: A paper ([REPAIR]()) got accepted to EMNLP 2026.      
 - **Jun 2026**: I spoke at [SNU × NVIDIA with Jensen Huang](https://www.linkedin.com/posts/yerim-oh_nvidia-kjensen-buildaclaw-activity-7469912748575965185-IN6D?utm_source=share&utm_medium=member_desktop&rcm=ACoAADUu3ksBPXi4H9FfA-vGiQp-fEOSfVv_Dak) 💚    
 - **May 2025**: A paper ([MATTER](https://aclanthology.org/2025.acl-long.474/)) got accepted to ACL 2025 <span style="color:red">SAC Highlights</span>.       
-- **Sep 2024**: A paper ([MELT](https://arxiv.org/abs/2410.15126)) got accepted to EMNLP 2024 Findings.
 
 
 ----
