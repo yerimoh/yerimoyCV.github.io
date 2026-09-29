@@ -10,7 +10,7 @@ title: Publications
 ## Conference Paper
 
 
-- [REPAIR: Resolving Long-Tail Confusion in Scientific Retrievers via Fact-Verified Iterative Refinement]()<br>
+- [REPAIR: Resolving Long-Tail Confusion in Scientific Retrievers via Fact-Verified Iterative Refinement](https://arxiv.org/abs/2609.18262)<br>
   **Yerim Oh**, Gunhee Kim<br>
   EMNLP 2026<br>
 
