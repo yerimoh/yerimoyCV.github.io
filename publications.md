@@ -11,7 +11,7 @@ title: Publications
 
 
 - [Science or Slop?: Benchmarking and Mitigating Scientific Slop in AI-Generated Papers](https://arxiv.org/abs/2610.00531)<br>
-  **Yerim Oh**, [Young-Jun Lee](https://passing2961.github.io/)<img src="{{ '/images/logo/umn.png' | relative_url }}" alt="UMN" style="height:13px; vertical-align:middle; margin-left:2px;">, [Jaewoo Ahn](https://ahnjaewoo.github.io/), [Gunhee Kim](https://vision.snu.ac.kr/gunhee/), [Dongyeop Kang](https://dykang.github.io/)<img src="{{ '/images/logo/umn.png' | relative_url }}" alt="UMN" style="height:13px; vertical-align:middle; margin-left:2px;"><br>
+  **Yerim Oh**, [Young-Jun Lee](https://passing2961.github.io/), [Jaewoo Ahn](https://ahnjaewoo.github.io/), [Gunhee Kim](https://vision.snu.ac.kr/gunhee/), [Dongyeop Kang](https://dykang.github.io/) (w/ <a href="https://minnesotanlp.github.io/"><img src="{{ '/images/logo/umn.png' | relative_url }}" alt="University of Minnesota" style="height:14px; vertical-align:middle;"></a>)<br>
   arXiv preprint, 2026<br>
   [[Paper](https://arxiv.org/abs/2610.00531)] [[Demo](https://yerimoh.github.io/scientific-slop-demo/)]
 
