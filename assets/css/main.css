@@ -392,12 +392,12 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
    Default theme: sidebar starts at 16.7% from the left and the article is only
    37.5% wide on large screens. Pull the sidebar left and widen the article. */
 @media only screen and (min-width:37.5em){
-  .article-author-top{width:18%;margin-left:3%;margin-right:3%;}
-  #main article,#index{width:68%;margin-left:0;margin-right:0;}
-  .footer-wrap footer{width:68%;margin-left:24%;margin-right:8%;}
+  .article-author-top{width:17%;margin-left:2%;margin-right:2%;}
+  #main article,#index{width:76%;max-width:none;margin-left:0;margin-right:0;}
+  .footer-wrap footer{width:76%;margin-left:21%;margin-right:3%;}
 }
 @media only screen and (min-width:86.375em){
-  .article-author-top{width:12.5%;margin-left:8%;margin-right:3.5%;}
-  #main article,#index{width:62%;max-width:1100px;margin-left:0;margin-right:0;}
-  .footer-wrap footer{width:62%;max-width:1100px;margin-left:24%;margin-right:14%;}
+  .article-author-top{width:12%;margin-left:4%;margin-right:2.5%;}
+  #main article,#index{width:76%;max-width:none;margin-left:0;margin-right:0;}
+  .footer-wrap footer{width:76%;margin-left:18.5%;margin-right:5.5%;}
 }
