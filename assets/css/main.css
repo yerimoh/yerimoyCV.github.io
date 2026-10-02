@@ -401,3 +401,12 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
   #main article,#index{width:76%;max-width:none;margin-left:0;margin-right:0;}
   .footer-wrap footer{width:76%;margin-left:18.5%;margin-right:5.5%;}
 }
+/* Align the top navigation with the widened column */
+@media only screen and (min-width:37.5em){
+  .site-name{width:17%;margin-left:2%;margin-right:2%;}
+  .top-navigation{width:76%;margin-left:0;margin-right:0;}
+}
+@media only screen and (min-width:86.375em){
+  .site-name{width:12%;margin-left:4%;margin-right:2.5%;}
+  .top-navigation{width:76%;margin-left:0;margin-right:0;}
+}
