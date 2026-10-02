@@ -10,8 +10,8 @@ title: Publications
 ## Preprint
 
 
-- [Science or Slop?: Benchmarking and Mitigating Scientific Slop in AI-Generated Papers](https://arxiv.org/abs/2610.00531) <img src="{{ '/images/logo/umn.png' | relative_url }}" alt="University of Minnesota" style="height:16px; vertical-align:middle; margin-left:4px;"><br>
-  **Yerim Oh**, Young-Jun Lee, Jaewoo Ahn, Gunhee Kim, Dongyeop Kang<br>
+- [Science or Slop?: Benchmarking and Mitigating Scientific Slop in AI-Generated Papers](https://arxiv.org/abs/2610.00531)<br>
+  **Yerim Oh**, Young-Jun Lee<img src="{{ '/images/logo/umn.png' | relative_url }}" alt="UMN" style="height:13px; vertical-align:middle; margin-left:2px;">, Jaewoo Ahn, Gunhee Kim, Dongyeop Kang<img src="{{ '/images/logo/umn.png' | relative_url }}" alt="UMN" style="height:13px; vertical-align:middle; margin-left:2px;"><br>
   arXiv preprint, 2026<br>
   [[Paper](https://arxiv.org/abs/2610.00531)] [[Demo](https://yerimoh.github.io/scientific-slop-demo/)]
 
