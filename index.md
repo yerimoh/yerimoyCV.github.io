@@ -42,7 +42,7 @@ My current research focuses on solving real-world scientific problems using arti
 ----
 
 ## Experience
-- **2026.12-Present:** Research Intern, LG AI Research, Material Intelligence Lab     
+- **2026.12-Present:** LG AI Research, Material Intelligence Lab     
 
 
 
