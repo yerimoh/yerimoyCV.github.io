@@ -4,7 +4,7 @@ permalink: /awards/index.html
 title: Professional Activities
 ---
 
-> Update: 19th May 2025
+> Update: Nov 2026
 
   
 ## Professional Activities
